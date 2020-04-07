@@ -1,0 +1,10 @@
+requests
+numpy
+Flask==0.10.1
+# requirements for fastai:
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-linux_x86_64.whl
+torchvision==0.2.2.post3
+fastai
+streamlit
+scikit-learn
+pytrends

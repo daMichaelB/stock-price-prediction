@@ -1,0 +1,8 @@
+.idea
+/venv/
+*.pyc
+.env
+*.csv
+*.html
+/data/
+models/
